@@ -52,9 +52,9 @@ After downloading, please place them in the corresponding directories in your lo
     
  # 🏃‍♂️ Usage
 
-### Using Pipe Material Information (Two Modes)
+### Using Sewer Material Information (Two Modes)
 
-We provide two flexible modes to integrate pipe material information into SewerNet.
+We provide two flexible modes to integrate sewer material information into SewerNet.
 
 #### Mode 1: Using Pre-Provided Labels (For Exact Reproduction)
 
