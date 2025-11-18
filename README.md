@@ -24,13 +24,14 @@ The experiments in the paper are conducted on the **Sewer-ML** and **QV-Pipe** d
 After downloading, please place them in the corresponding directories in your local project.
 ﻿
 1.  **Material Label Files (Place in `Resources/` directory):**
-    - sewer_material_labels_part1.csv and sewer_material_labels_part2: Automatically generated material labels for the Sewer-ML dataset.
+    - sewer_material_labels_part1.csv and sewer_material_labels_part2.csv: Automatically generated material labels for the Sewer-ML dataset.
     - qvpipe_material_labels.csv: Automatically generated material labels for the QV-Pipe dataset.
 ﻿
 2.  **Pre-trained Model Weights (Place in `Resources/` directory):**
     - resnet50_stl_material.pth: The pre-trained ResNet-50 model for automatic pipe material classification (used in **Mode 2**).
     - SewerNet_Sewer_ML.ckpt : The final Sewer_ML pre-trained weights of our SewerMan model for inference.
     - SewerNet_QV-Pipe.ckpt : The final QV-Pipe pre-trained weights of our SewerMan model for inference.
+    - ViT-B-32.pt : The pre-trained weights of our CLIP model.
   
 
 ## 🛠️ Installation & Setup
